@@ -1,0 +1,19 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: 0;
+  font-family: "Nunito", monospace;
+  text-decoration: none;
+  outline: none;
+}
+body {
+  background: #dadbd3;
+  overflow: hidden;
+}
+.App {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  margin-top: 1rem;
+}
